@@ -2,8 +2,10 @@
 
 # A list is an ordered, mutable collection of elements.
 
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry", "peachh"]
 print("Original list:", fruits)
+print(fruits[1:])
+print(fruits[1:3])
 
 # Accessing elements
 print("First fruit:", fruits[0])
