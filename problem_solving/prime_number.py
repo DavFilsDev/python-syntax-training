@@ -19,3 +19,4 @@ def list_primes_up_to(limit):
 if __name__ == "__main__":
     number = 30
     print(f"Prime numbers up to {number}: {list_primes_up_to(number)}")
+    
